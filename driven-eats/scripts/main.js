@@ -1,4 +1,4 @@
-console.log("Funcional");
+console.log("Procedural");
 
 let pratoSelecionado = null;
 let bebidaSelecionada = null;
